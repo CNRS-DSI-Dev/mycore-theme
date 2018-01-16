@@ -411,6 +411,11 @@ span#helpLink a {
 	padding: 7px 30px 6px 10px;
 	cursor: pointer;
 }
+
+#expand:after {
+display: none;
+}
+
 #expand * {
 	cursor: pointer;
 }
@@ -419,12 +424,13 @@ span#helpLink a {
 #expand:active {
 	color: #fff;
 }
-#expand img {
+
+/*#expand img {
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	opacity: .7;
 	margin-bottom: -2px;
 	display: none;
-}
+}*/
 
 
 #expand:hover img,
@@ -468,9 +474,9 @@ span#helpLink a {
 	}
 
 /* do not show display name when profile picture is present */
-#header .avatardiv.avatardiv-shown + #expandDisplayName {
+/*#header .avatardiv.avatardiv-shown + #expandDisplayName {
 	display: block;
-}
+}*/
 #header #expand {
 	display: block;
 }
