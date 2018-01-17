@@ -23,7 +23,7 @@ OC.L10N.register(
     "Help translate My CoRe" : "Aidez à traduire My CoRe",
     "Help translate ownCloud" : "Aidez à traduire ownCloud", 
     "Disable" : "Désactiver",
-    "Enable" : "Activer",
+    "Enable" : "Activer"
     },
 "nplurals=2; plural=(n > 1);"
 );
