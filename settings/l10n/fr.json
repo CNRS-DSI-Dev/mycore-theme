@@ -22,6 +22,6 @@
     "\">password constraints</a> must be respected!" : "\">les contraintes sur les mots de passe</a>.",
     "Wrong password" : "Mot de passe incorrect",
     "Disable" : "Désactiver",
-    "Enable" : "Activer",
+    "Enable" : "Activer"
 },"pluralForm" :"nplurals=2; plural=(n > 1);"
 }
