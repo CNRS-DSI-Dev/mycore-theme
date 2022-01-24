@@ -22,14 +22,14 @@ class OC_Theme {
 		$this->myEntity = "CNRS"; /* e.g. company name, used for footers and copyright notices */
 		$this->myName = "Service My CoRe"; /* short name, used when referring to the service */
 		$this->myTitle = "My CoRe"; /* can be a longer name, for titles */
-		$this->myBaseUrl = "http://ods.cnrs.fr/";
+		$this->myBaseUrl = "https://confluence.cnrs.fr/confluence/display/ODSCORE/Aide+utilisateur";
 		$this->mySlogan = "My CoRe, partage et nomadisme";
 		$this->myLogoClaim = "";
-		$this->myDocBaseUrl = "https://aide.core-cloud.net/mycore/";
+		$this->myDocBaseUrl = "https://confluence.cnrs.fr/confluence/display/ODSCORE/Aide+utilisateur";
 
 		// for perfectionists (others: just keep it like this)
 		$this->defaultSyncClientUrl = " http://owncloud.org/sync-clients/";
-		$this->defaultDocBaseUrl = "https://aide.core-cloud.net/mycore/";
+		$this->defaultDocBaseUrl = "https://confluence.cnrs.fr/confluence/display/ODSCORE/Aide+utilisateur";
 
 	}
 
